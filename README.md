@@ -157,6 +157,8 @@ dotnet run --project src/PaintMachineMaintenance/PaintMachineMaintenance.csproj
 ```
 
 Or open `PaintMachineMaintenance.sln` in Visual Studio 2022 and press **F5**.
+<img width="1411" height="652" alt="boyamakinesi2-1" src="https://github.com/user-attachments/assets/204a94df-7eca-4f8c-9c23-2ca606c0e009" />
+<img width="1367" height="621" alt="boyamakinesi2-2" src="https://github.com/user-attachments/assets/e13a76f6-ee9e-424f-a80e-28a616fc9c7b" />
 
 ### 📌 Features
 
