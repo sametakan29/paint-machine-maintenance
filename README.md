@@ -3,6 +3,7 @@
 [![.NET Version](https://img.shields.io/badge/.NET-8.0-blue.svg)](https://dotnet.microsoft.com/)
 [![Database](https://img.shields.io/badge/PostgreSQL-10%2B-blue.svg)](https://www.postgresql.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Related Hardware Project](https://img.shields.io/badge/Hardware-paintMachine-orange.svg)](https://github.com/sametakan29/paintMachine)
 
 > **[TR]** Türkçe açıklama için [aşağıya kaydırın](#-türkçe).  
 > **[EN]** Scroll down for the [English documentation](#-english).
@@ -13,6 +14,10 @@
 ## 🇹🇷 Türkçe
 
 Bu proje, boya makinelerinin bakım kayıtlarını takip etmek, boya karışımları hazırlamak, hazne stoklarını yönetmek ve dükkan/personel rollerini PostgreSQL altyapısıyla yönetmek için geliştirilmiş modern bir **C# Windows Forms (.NET 8.0)** uygulamasıdır.
+
+### 🔗 İlgili Projeler (Eko-Sistem)
+
+- 🤖 **[paintMachine (Arduino Dozajlama & Donanım)](https://github.com/sametakan29/paintMachine):** Bu projenin **fiziksel donanım & IoT entegrasyonu** boyutudur. Arduino UNO, Servo motorlar (COM7) ve gerçek zamanlı mililitre boya dozajlama mekanizmasını içerir.
 
 ### 📁 Proje Yapısı
 
@@ -87,6 +92,10 @@ dotnet run --project src/PaintMachineMaintenance/PaintMachineMaintenance.csproj
 ## 🇬🇧 English
 
 This project is a modern **C# Windows Forms (.NET 8.0)** desktop application powered by a **PostgreSQL** backend, designed to manage paint machine maintenance, track color mixing recipes, monitor pigment inventory canisters, and manage multi-store staff roles.
+
+### 🔗 Related Projects (Ecosystem)
+
+- 🤖 **[paintMachine (Arduino Dispenser & Hardware)](https://github.com/sametakan29/paintMachine):** The **physical hardware & IoT integration** counterpart of this system. Features Arduino UNO, Servo motors (COM7), and real-time milliliter paint dispensing logic.
 
 ### 📁 Project Structure
 
